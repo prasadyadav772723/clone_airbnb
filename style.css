@@ -204,7 +204,7 @@ body{
         margin: 20px;
         align-items: center;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-evenly;
         flex-wrap: wrap;
     }
     .p3-c2{
@@ -214,5 +214,8 @@ body{
         justify-content: space-evenly;
         margin-left: 20px;
         margin-bottom: 20px;
+    }
+    .parent4{
+        width: auto;
     }
 }
